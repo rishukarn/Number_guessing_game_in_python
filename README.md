@@ -18,5 +18,5 @@ Welcome to the **Number Guessing Game**! This is a simple command-line game wher
      ```
 2. **Download the script** or clone the repository:
    ```sh
-   git clone https://github.com/yourusername/number-guessing-game.git
-   cd number-guessing-game
+   https://github.com/rishukarn/Number_guessing_game_in_python.git
+   cd Number_guessing_game_in_python
